@@ -11,7 +11,7 @@ setup(
         license=open(join(dirname(__file__), 'LICENSE.txt')).read(),
         packages=find_packages(),
         description='A multi-threaded Admin Finder.',
-        long_description=open(join(dirname(__file__), 'README')).read(),
+        long_description=open(join(dirname(__file__), 'README.md')).read(),
         classifiers=[
             'Programming Language :: Python :: 3.4',
             'License :: OSI Approved :: MIT License',
