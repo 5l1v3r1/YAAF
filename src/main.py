@@ -1,5 +1,5 @@
 import argparse
-from funcs import threads
+from .funcs import threads
 
 def main_function():
 
