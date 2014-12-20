@@ -4,8 +4,8 @@ import queue
 import http.client
 import sys
 
-from funcs import aux_functs
-from funcs.colors import TermColors
+from . import aux_functs
+from .colors import TermColors
 
 i = 1
 user_agent = {'User-Agent': ''}
