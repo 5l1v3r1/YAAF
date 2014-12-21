@@ -23,7 +23,7 @@ This python script offers **many** advantages:
 - **Written in Python's last version** - Python2.7 is great because of the amount of libraries. But Python3.4 is the future!
 - **Custom extensions** - You can add a custom extension, for example, `.php`. Every link it will try, will have `.php` added in the end.
 - **Result logging** - If you want, you can save the results in `$HOME/.yaaf_output`.
-- **User-Agent** - You can costumize the User-Agent you want to use.
+- **User-Agent** - You can customize the User-Agent you want to use.
 - **Link Sanitize** - Many websites can have different request responses to different urls. So the `--sanitize` arg forces the link to appear like `example.com`.
 - **Custom wordlists** - You can use a custom wordlist.  
 
