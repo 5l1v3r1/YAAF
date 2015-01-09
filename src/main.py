@@ -3,7 +3,7 @@ from .funcs import threads
 
 def main_function():
 
-    parse = argparse.ArgumentParser(description="Description here")
+    parse = argparse.ArgumentParser(description="YAAF - Yet Another Admin Finder!")
 
     parse.add_argument("-u", "--url=", action="store", dest="URL", help="Website url")
     parse.add_argument("-t", "--threads=", action="store", dest="NUMBER", help="Number of threads to use")
